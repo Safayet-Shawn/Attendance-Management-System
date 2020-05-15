@@ -1,4 +1,4 @@
-<h1 align="center">Attendance Management system for School / Collage/University/Office</h1>
+<h1 align="center">Attendance Management system</h1>
 <p align="center">Its an attendance management system which could be used by any School / Collage/University/Office to take,view attendace and many more</p>
 
 ## Project Description
@@ -35,22 +35,26 @@
  
 # Screenshots
 
-<img src="project-screenshot/1.front-page.PNG" width="100%">
+<img src="project-screenshot/1.frnt1.PNG" width="100%">
 
-<img src="project-screenshot/jobse.PNG" width="100%">
+<img src="project-screenshot/2.frnt2.PNG" width="100%">
 
-<img src="project-screenshot/apply-jobs.PNG" width="100%">
+<img src="project-screenshot/createstd.PNG" width="100%">
 
-<img src="project-screenshot/apply-jobs-confirm.PNG" width="100%">
+<img src="project-screenshot/4.allstdnt.PNG" width="100%">
 
-<img src="project-screenshot/profile.PNG" width="100%">
+<img src="project-screenshot/5..allstdof-batch.PNG" width="100%">
 
-<img src="project-screenshot/super-ad.PNG" width="100%">
+<img src="project-screenshot/6.stdby-batch.PNG" width="100%">
 
-<img src="project-screenshot/super-admin2.PNG" width="100%">
+<img src="project-screenshot/7.add-batch.PNG" width="100%">
 
-<img src="project-screenshot/cs-admin-jobs.PNG" width="100%">
+<img src="project-screenshot/8.all-batch.PNG" width="100%">
 
-<img src="project-screenshot/cs-admin.PNG" width="100%">
+<img src="project-screenshot/9..atndnc-by-batch.PNG" width="100%">
 
-<img src="project-screenshot/cs-admin-view-app.PNG" width="100%">
+<img src="project-screenshot/10.tak-atndance-of-a-batch.PNG" width="100%">
+
+<img src="project-screenshot/11..view-atndnc.PNG" width="100%">
+
+<img src="project-screenshot/12..view-act-addnce.PNG" width="100%">
