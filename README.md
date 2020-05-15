@@ -3,7 +3,7 @@
 
 ## Project Description
 
-### Suppose a school has 10 classes from 1-10 and each class could have move than two batches.By useing this application any one is able to take online attendace of each batch of all classes and this attendance history would be stored on database according to date.First of all admin have to create batches according to classes.After that admin is able to insert student in that batch and lastly the system is ready to take attendance.Admin is also able see all the sudents of all batches.Admin can view the attendance of a spacific batch in a spacific date.
+### Suppose a school has 10 classes from 1-10 and each class could have more than two batches.By useing this application any one is able to take online attendace of each batch of all classes and this attendance history would be stored on database according to date.First of all admin have to create batches according to classes.After that admin is able to insert student in that batch and lastly the system is ready to take attendance.Admin is also able see all the sudents of all batches.Admin can view the attendance of a spacific batch in a spacific date.
 
 
 
